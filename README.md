@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kai
 - 👀 I’m interested in NodeJS, Java, Testing
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me NA
 
